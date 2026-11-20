@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codewithahmed2005.github.io/pdf-studio-official/sitemap.xml
